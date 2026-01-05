@@ -1,4 +1,4 @@
-# Hi there! I'm [ชื่อของคุณ] 🧠✨
+# Hi there! I'm Natthachon 🧠✨
 **Computer Science Student | Aspiring AI & Machine Learning Engineer**
 
 <p align="left">
@@ -10,10 +10,10 @@
 ---
 
 ### 🔍 About Me
-- 🎓 **Education:** 3rd/4th year Computer Science student at [ชื่อมหาวิทยาลัย]
-- 🎯 **Interests:** Computer Vision (CV), Natural Language Processing (NLP), and Generative AI.
-- 🧪 **Current Research/Project:** กำลังพัฒนา [ชื่อโปรเจกต์ AI] โดยใช้ [ชื่อโมเดล/Lib] เพื่อแก้ปัญหา [ระบุปัญหา]
-- 🌱 **Learning:** Mathematics for ML, MLOps (Deployment), and Big Data Processing.
+- 🎓 **Education:** Computer Science student at King Mongkut's University of Technology Thonburi
+- 🎯 **Interests:** Computer Vision (CV), Natural Language Processing (NLP), and Generative AI
+- 🧪 **Current Project:** พัฒนา Fraud detection โดยใช้ TFT (Temporal Fusion Transformer)
+- 🌱 **Learning:** Mathematics for ML, MLOps, and Big Data Processing
 - ⚡ **Fun Fact:** I love optimizing loss functions more than I love coffee. ☕
 
 ---
