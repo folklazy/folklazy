@@ -1,4 +1,4 @@
-# Hi there! I'm Natthachon 🧠✨
+# Hi there! I'm Natthachon 👋 🧠✨
 **Computer Science Student | Aspiring AI & Machine Learning Engineer**
 
 <p align="left">
@@ -19,13 +19,10 @@
 ---
 
 ### 🛠️ AI/ML Tech Stack
-
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **ML/DL Frameworks** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit_learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Data Analysis** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
-| **Tools & Platforms** | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **ML/DL** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit_learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
 
 ---
 
@@ -36,13 +33,14 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/folklazy?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&languages=0&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=folklazy&theme=radical&no-bg=true&margin-w=15" />
 </p>
+
 ---
 
 ### 🚀 Highlighted AI Projects
-* **USD-THB-Forecast** - An end-to-end Data Engineering & Data Science project for forecasting the THB/USD exchange rate using TFT, XGBoost, and LSTM. | [View Project](https://github.com/folklazy/USD-THB-Forecast)
-* **Fraud Detection using TFT** - Utilizing Temporal Fusion Transformers to identify fraudulent transactions in time-series data.
+* **USD-THB-Forecast** - An end-to-end Data Engineering & AI project forecasting THB/USD exchange rates using TFT, XGBoost, and LSTM. | [View Project](https://github.com/folklazy/USD-THB-Forecast)
+* **Fraud Detection AI** - Utilizing Temporal Fusion Transformers (TFT) to identify fraudulent transactions in time-series data.
 
 ---
 
