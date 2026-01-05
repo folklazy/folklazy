@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=folklazy&theme=radical&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=folklazy&theme=radical&hide_border=true&area=true" />
 </p>
 ---
 
