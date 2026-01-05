@@ -38,15 +38,15 @@
 ---
 
 ### 🚀 Highlighted AI Projects
-* **[Project Name]** - สรุปสั้นๆ (เช่น: Image Classification using CNNs on CIFAR-10) | [Repo Link]
-* **[Project Name]** - (เช่น: Sentiment Analysis for Thai Language using BERT) | [Repo Link]
-* **[Kaggle Competition]** - สรุปอันดับหรือสิ่งที่ได้เรียนรู้จากการแข่ง | [Link]
+* **USD-THB-Forecast** - An end-to-end Data Engineering & Data Science project for forecasting the THB/USD exchange rate using TFT, XGBoost, and LSTM. | [View Project](https://github.com/folklazy/USD-THB-Forecast)
+* **Fraud Detection using TFT** - Utilizing Temporal Fusion Transformers to identify fraudulent transactions in time-series data.
 
 ---
 
 ### 📫 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
-<a href="https://kaggle.com/[YOUR_USER]" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="25" /></a>
+<a href="https://www.linkedin.com/in/natthachon-chaimanee" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
+<a href="mailto:folknbza@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+<a href="mailto:folkwork@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" /></a>
+<a href="https://www.kaggle.com/natthachon" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="25" /></a>
 </p>
