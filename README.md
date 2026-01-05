@@ -31,8 +31,8 @@
 
 ### 📊 My GitHub Journey
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USER]&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USER]&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=folklazy&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=folklazy&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
