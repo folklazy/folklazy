@@ -31,15 +31,19 @@
 
 ### 📊 My GitHub Journey
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=folklazy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=folklazy&layout=compact&theme=radical&hide_border=true" /></p>
-<p align="center"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=folklazy&theme=radical&hide_border=true" /></p>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=folklazy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=folklazy&layout=compact&theme=radical&hide_border=true" />
+</p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=folklazy&theme=radical&hide_border=true" />
+</p>
 ---
 
 ### 🚀 Highlighted AI Projects
-* **USD-THB-Forecast** - An end-to-end Data Engineering & Data Science project for forecasting the THB/USD exchange rate. This system orchestrates a complete ETL pipeline, trains advanced AI models (TFT), and visualizes predictions via a live dashboard. | https://github.com/folklazy/USD-THB-Forecast.git
-* **USD-THB-Forecast** - This system orchestrates a complete ETL pipeline, trains advanced AI models (TFT), (Xgboost), (Lstm) | https://github.com/folklazy/USD-THB-Forecast.git
+* **USD-THB-Forecast** - An end-to-end Data Engineering & Data Science project for forecasting the THB/USD exchange rate. This system orchestrates a complete ETL pipeline, trains advanced AI models (TFT), and visualizes predictions via a live dashboard. | https://github.com/folklazy/USD-THB-Forecast
+* **USD-THB-Forecast** - This system orchestrates a complete ETL pipeline, trains advanced AI models (TFT), (Xgboost), (Lstm) | https://github.com/folklazy/USD-THB-Forecast
 
 ---
 
