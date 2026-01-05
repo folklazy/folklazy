@@ -10,9 +10,9 @@
 ---
 
 ### 🔍 About Me
-- 🎓 **Education:** 3rd/4th year Computer Science student at [ชื่อมหาวิทยาลัย]
+- 🎓 **Education:** 3rd/4th year Computer Science student at King Mongkut's University of Technology Thonburi
 - 🎯 **Interests:** Computer Vision (CV), Natural Language Processing (NLP), and Generative AI.
-- 🧪 **Current Research/Project:** กำลังพัฒนา [ชื่อโปรเจกต์ AI] โดยใช้ [ชื่อโมเดล/Lib] เพื่อแก้ปัญหา [ระบุปัญหา]
+- 🧪 **Current Research/Project:** กำลังพัฒนา Fraud detection โดยใช้ TFT (Temporal Fusion Transformer) เพื่อแก้ปัญหา Fraud detection
 - 🌱 **Learning:** Mathematics for ML, MLOps (Deployment), and Big Data Processing.
 - ⚡ **Fun Fact:** I love optimizing loss functions more than I love coffee. ☕
 
@@ -38,15 +38,15 @@
 ---
 
 ### 🚀 Highlighted AI Projects
-* **[Project Name]** - สรุปสั้นๆ (เช่น: Image Classification using CNNs on CIFAR-10) | [Repo Link]
-* **[Project Name]** - (เช่น: Sentiment Analysis for Thai Language using BERT) | [Repo Link]
-* **[Kaggle Competition]** - สรุปอันดับหรือสิ่งที่ได้เรียนรู้จากการแข่ง | [Link]
+* **USD-THB-Forecast** - An end-to-end Data Engineering & Data Science project for forecasting the THB/USD exchange rate. This system orchestrates a complete ETL pipeline, trains advanced AI models (TFT), and visualizes predictions via a live dashboard. | https://github.com/folklazy/USD-THB-Forecast.git
+* **USD-THB-Forecast** - This system orchestrates a complete ETL pipeline, trains advanced AI models (TFT), (Xgboost), (Lstm) | https://github.com/folklazy/USD-THB-Forecast.git
 
 ---
 
 ### 📫 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
-<a href="https://kaggle.com/[YOUR_USER]" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="25" /></a>
+<a href="www.linkedin.com/in/natthachon-chaimanee" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
+<a href="mailto:folknbza@gmail.com.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+<a href="mailto:folkwork@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" /></a>
+<a href="https://www.kaggle.com/natthachon" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="25" /></a>
 </p>
