@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/folklazy?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&languages=0&theme=radical" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=folklazy&theme=radical&hide_border=true&area=true" />
 </p>
 ---
 
