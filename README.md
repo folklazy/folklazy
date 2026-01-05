@@ -20,8 +20,7 @@
 
 ### 📊 My GitHub Journey
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=folklazy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=folklazy&layout=compact&theme=radical&hide_border=true" />
+  <img width="100%" src="https://metrics.lecoq.io/folklazy?template=classic&languages=1&languages.details=percentage&languages.limit=8&theme=radical&config.timezone=Asia/Bangkok" />
 </p>
 
 <p align="center">
