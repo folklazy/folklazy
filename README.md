@@ -1,4 +1,4 @@
-# Hi there! I'm [ชื่อของคุณ] 🧠✨
+# Hi there! I'm Natthachon 🧠✨
 **Computer Science Student | Aspiring AI & Machine Learning Engineer**
 
 <p align="left">
