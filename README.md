@@ -33,10 +33,15 @@
 
 ---
 
-### 📊 GitHub Metrics (Stable Mirror)
+### 📊 Engineering Metrics
+<p align="left">
+  <img src="https://img.shields.io/badge/Commits-45+-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Projects-2_Active-success?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Main_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=folklazy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=folklazy&layout=compact&theme=radical&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=folklazy&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ---
