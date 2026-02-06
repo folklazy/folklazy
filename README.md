@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 Highlighted AI Projects
+### 🚀 Highlighted Projects
 * **[USD-THB-Forecast](https://github.com/folklazy/USD-THB-Forecast)**: An end-to-end forecasting pipeline using **TFT**, **XGBoost**, and **LSTM**. Demonstrates data orchestration and model deployment.
 
 ---
