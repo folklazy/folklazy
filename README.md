@@ -29,7 +29,6 @@
 
 ### 🚀 Highlighted AI Projects
 * **[USD-THB-Forecast](https://github.com/folklazy/USD-THB-Forecast)**: An end-to-end forecasting pipeline using **TFT**, **XGBoost**, and **LSTM**. Demonstrates data orchestration and model deployment.
-* **Fraud Detection via TFT**: Implementing state-of-the-art Transformer architectures to identify anomalous transaction patterns.
 
 ---
 
