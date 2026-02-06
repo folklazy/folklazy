@@ -13,7 +13,7 @@
 - 🎓 **Education:** Pursuing a Bachelor's in **Computer Science** at King Mongkut's University of Technology Thonburi.
 - 🎯 **Domain Expertise:** Advanced Deep Learning, Time-Series Forecasting, and Pattern Recognition.
 - 🔬 **Ongoing Research:** Optimizing **Temporal Fusion Transformers (TFT)** for high-stakes fraud detection and financial forecasting.
-- 🌱 **Current Learning:** MLOps pipelines (CI/CD for ML) and Scalable Cloud Architectures.
+- 🌱 **Current Learning:** Software Engineering & Cybersecurity.
 
 ---
 
