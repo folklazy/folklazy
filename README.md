@@ -13,7 +13,7 @@
 - 🎓 **Education:** Pursuing a Bachelor's in **Computer Science** at King Mongkut's University of Technology Thonburi.
 - 🎯 **Technical Interests:** Advanced Deep Learning, Machine learning, and AI Systems.
 - 🔬 **Current Focus:** AI, Machine Learning, and Software Engineering.
-- 🌱 **Current Learning:** Software Engineering & Cybersecurity.
+- 🌱 **Current Learning:** Software Engineering, Big Data and Cybersecurity.
 
 ---
 
