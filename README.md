@@ -12,7 +12,7 @@
 ### 🧪 Technical Focus & Research
 - 🎓 **Education:** Pursuing a Bachelor's in **Computer Science** at King Mongkut's University of Technology Thonburi.
 - 🎯 **Technical Interests:** Advanced Deep Learning, Machine learning, and AI Systems.
-- 🔬 **Current Focus:** Optimizing **Temporal Fusion Transformers (TFT)** for high-stakes fraud detection and financial forecasting.
+- 🔬 **Current Focus:** AI, Machine Learning, and Software Engineering.
 - 🌱 **Current Learning:** Software Engineering & Cybersecurity.
 
 ---
