@@ -2,8 +2,8 @@
 **Computer Science Student @ KMUTT | Aspiring AI & Machine Learning Engineer**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-AI_Researcher-blue?style=for-the-badge&logo=gitbook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Specialization-Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Student-blue?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Community-Kaggle_Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
 
