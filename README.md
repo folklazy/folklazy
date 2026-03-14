@@ -29,7 +29,7 @@
 
 ### 🚀 Highlighted Projects
 * **[USD-THB-Forecast](https://github.com/folklazy/USD-THB-Forecast)**: An end-to-end forecasting pipeline using **TFT**, **XGBoost**, and **LSTM**. Demonstrates data orchestration and model deployment.
-
+* **[FinLearn](https://github.com/folklazy/FinLearn)**: A financial learning platform designed to help beginners understand stock markets through interactive data visualization, portfolio simulation, and real-world market insights.
 ---
 
 ### 📊 My GitHub Journey
