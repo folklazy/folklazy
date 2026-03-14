@@ -11,8 +11,8 @@
 
 ### 🧪 Technical Focus & Research
 - 🎓 **Education:** Pursuing a Bachelor's in **Computer Science** at King Mongkut's University of Technology Thonburi.
-- 🎯 **Domain Expertise:** Advanced Deep Learning, Time-Series Forecasting, and Pattern Recognition.
-- 🔬 **Ongoing Research:** Optimizing **Temporal Fusion Transformers (TFT)** for high-stakes fraud detection and financial forecasting.
+- 🎯 **Technical Interests:** Advanced Deep Learning, Machine learning, and AI Systems.
+- 🔬 **Current Focus:** Optimizing **Temporal Fusion Transformers (TFT)** for high-stakes fraud detection and financial forecasting.
 - 🌱 **Current Learning:** Software Engineering & Cybersecurity.
 
 ---
